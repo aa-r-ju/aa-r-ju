@@ -1,7 +1,6 @@
  - 👋 Hi, I’m @aa-r-ju
 - 👀 I’m interested in coding
-🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
+🌱 I’m currently learning javascript.
 - search me in linkedin  https://www.linkedin.com/in/aarjupariyar/
 
 <!---
