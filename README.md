@@ -1,5 +1,5 @@
- - 👋 Hi, I’m @aa-r-ju
-- 👀 I’m interested in coding
+ - 👋 Hello World!
+- I'm Aarju! 🌟 Turning ideas into reality with code, one line at a time. 💻✨
 🌱 I’m currently learning javascript.
 - search me in linkedin  https://www.linkedin.com/in/aarjupariyar/
 <img  src = "https://github-readme-streak-stats.herokuapp.com?user=aa-r-ju&theme=radical" />
